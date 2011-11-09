@@ -8,3 +8,6 @@ System Requirements:
     Graphics card with OpenGL and 3D texture support
     QT SDK
     GLUT
+
+Instructions:
+Open the .pro file with QT Creator and then run a build. Run the executable and open the CTHead source data.
