@@ -1,4 +1,10 @@
 Slice Renderer by Kevin Jacobs
 
-This is a simple slice rendering program. It can draw single slices, multiple axis-aligned slices, and view-aligned slices. Currently the only source of data the program is compatible with is the CTHead data found at: http://graphics.standford.edu/data/voldata
+This is a simple slice rendering program. It can draw single slices, multiple axis-aligned slices, and view-aligned slices. Currently the only source of data the program is compatible with is the CTHead data found at: http://graphics.stanford.edu/data/voldata
 
+System Requirements:
+
+    Tested on Ubuntu 10.10 and 11.04
+    Graphics card with OpenGL and 3D texture support
+    QT SDK
+    GLUT
